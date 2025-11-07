@@ -1,6 +1,8 @@
 # Study Log App
 
-Android 공부 기록 캘린더 앱
+Instagram 스토리 보관함 캘린더에서 영감을 받아 만든 Android 공부 기록 캘린더 앱
+
+![Instagram 스토리 캘린더 레퍼런스](docs/images/story-calendar.png)
 
 ## 주요 기능
 
